@@ -3,7 +3,6 @@ using UnityEngine.UI;
 
 public class DontDestroy : MonoBehaviour
 {
-    public string tag;
 
     float volume = 1;
     AudioSource audioSource;
