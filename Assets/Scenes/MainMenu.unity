@@ -708,6 +708,7 @@ GameObject:
   - component: {fileID: 1775711042}
   - component: {fileID: 1775711041}
   - component: {fileID: 1775711040}
+  - component: {fileID: 1775711043}
   m_Layer: 0
   m_Name: RobinBTN
   m_TagString: Untagged
@@ -817,6 +818,19 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1775711038}
   m_CullTransparentMesh: 1
+--- !u!114 &1775711043
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1775711038}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d2cb899c5fe1046b6e5a120f3cfd55, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Robin: {fileID: 1775711040}
 --- !u!1 &1992438962
 GameObject:
   m_ObjectHideFlags: 0
