@@ -6,8 +6,26 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: bd6a8f71825c5924d9d492c4ccab2499
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: c3b6e034094ef0d4ab7f6500234a4524
+  - enabled: 1
     path: Assets/Scenes/Alex.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Harley.unity
+    guid: 8e70382f57ba223498c938b50c442559
+  - enabled: 1
+    path: Assets/Scenes/RayanMachine.unity
+    guid: ea3a6d7b918a0054ebea3709270ff3c6
+  - enabled: 1
+    path: Assets/Scenes/William.unity
+    guid: d667a0d457582514e950279d60d83576
+  - enabled: 1
+    path: Assets/Scenes/Robin.unity
+    guid: b9717c49bb11af64eaeb0d20dbb125b6
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
