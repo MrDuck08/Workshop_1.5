@@ -14,13 +14,11 @@ public class DontDestroy : MonoBehaviour
 
         if (objs.Length > 1)
         {
-            objs[0].GetComponent<DontDestroy>().StartFake();
-
             Destroy(this.gameObject);
         }
 
 
-        audioSource = FindObjectOfType<AudioSource>();
+        audioSource = GetComponent<AudioSource>();
 
         if(audioSource != null)
         {
@@ -30,20 +28,6 @@ public class DontDestroy : MonoBehaviour
         }
 
         DontDestroyOnLoad(this.gameObject);
-    }
-
-    public void StartFake()
-    {
-
-        audioSource = FindObjectOfType<AudioSource>();
-
-        if (audioSource != null)
-        {
-
-            audioSource.volume = volume;
-
-        }
-
     }
 
     public void ChangeVolume()
