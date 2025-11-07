@@ -171,6 +171,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: EntireContraption
       objectReference: {fileID: 0}
+    - target: {fileID: 6964463406832354473, guid: b7a38209e35b6584eaa2e89cdb1980f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -8.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 6964463406832354473, guid: b7a38209e35b6584eaa2e89cdb1980f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.52
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
