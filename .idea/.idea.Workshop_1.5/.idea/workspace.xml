@@ -17,11 +17,19 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+<<<<<<< HEAD
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/ToggleScript.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
+=======
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/dacoolerscript.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+>>>>>>> 94139684752e258693fbabfe3049c88a7d769851
   <component name="ProjectId" id="359PgJSzCahucEA65krq6qTVjOu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -100,9 +108,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1762519424227</updated>
+<<<<<<< HEAD
       <workItem from="1762519426712" duration="530000" />
       <workItem from="1762520907986" duration="12000" />
       <workItem from="1762521053508" duration="727000" />
+=======
+      <workItem from="1762519426712" duration="818000" />
+>>>>>>> 94139684752e258693fbabfe3049c88a7d769851
     </task>
     <servers />
   </component>
